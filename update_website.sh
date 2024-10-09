@@ -1,7 +1,7 @@
 #!/bin/bash
 # This line tells the computer this is a bash script
 REPO_URL="https://github.com/007kumar/my-website.git"
-REPO_DIR="/home/kumar/my-website"
+REPO_DIR="/home/kumar/SDLC"
 WEBSITE_DIR="/var/www/html/"
 # These lines set up some information about where your files are
 

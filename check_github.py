@@ -7,7 +7,7 @@ REPO_OWNER = '007kumar'
 REPO_NAME = 'my-website'
 GITHUB_API_URL = f'https://api.github.com/repos/007kumar/my-website/commits'
 # File to store the last commit SHA
-LAST_COMMIT_FILE = '/path/to/last_commit.txt'
+LAST_COMMIT_FILE = '/home/kumar/SDLC/last_comment.txt'
 
 
 #Below function is to check changes made on Git.
